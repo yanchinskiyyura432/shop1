@@ -1,0 +1,16 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "imageUrl": "https://www.buildrestfoods.com/wp-content/uploads/2020/08/green-apply.jpg",
+        "name": "Apple",
+        "count": 4,
+        "size": { "width": 200, "height": 200 },
+        "weight": "200g",
+        "comments": [
+          { "id": 1, "productId": 1, "description": "First comment", "date": "14:00 28.06.2024" }
+        ]
+      }
+    ]
+  }
+  
